@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short and seasonable dialogue between a protestant and a papist shewing the indiscretion and unadvisedness of all apostates from the Gospel.</title>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29773</idno><idno type="EEBO-CITATION">13111303</idno>
+  <idno type="VID">199609</idno>
+  <idno type="EEBO-PROQUEST">2264196363</idno>
+  
+            <idno type="STC">Wing S3550</idno>
+            <idno type="OCLC">13111303</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29773)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199609)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 779:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short and seasonable dialogue between a protestant and a papist shewing the indiscretion and unadvisedness of all apostates from the Gospel.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Doctrines --  Anecdotes</term>
+               <term type="corporate_name">Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199609:1"/>
+            <pb facs="tcp:199609:1"/>
+            <p>A SHORT and SEASONABLE DIALOGUE BETWEEN A PROTESTANT AND A PAPIST: SHEWING The Indiscretion and Unadvisedness of all APOSTATES from the Gospel.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Langley Curtis</hi> on <hi>L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dgate-Hill, 1679.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:199609:2"/>
+            <pb facs="tcp:199609:2"/>
+            <head>A SHORT and SEASONABLE DIALOGUE BETWEEN A PROTESTANT AND A PAPIST: SHEWING The Unadvisedness and Indiscretion of all APOSTATES from the Gospel.</head>
+            <sp>
+               <speaker>PROTESTANT.</speaker>
+               <p>Good morrow Neighbour.</p>
+            </sp>
+            <sp>
+               <speaker>Papist.</speaker>
+               <p>I would also bid you Good morrow were it not for your Heresie, but I am bound to be an Enemy of your Religion and its Professors.</p>
+            </sp>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <p>How come you to be bound to such an unreasonable temper? Have we not lived many years as good Neighbours? I never wrong'd you, but have been always ready to serve and help you according to my power; I have lent you Money ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of my Pocket, and you never desired any kindness from me that ever I refused. Why are you now so strange? why will you now be at enmity with your Friends upon the account of Re<g ref="char:EOLhyphen"/>ligion?</p>
+            </sp>
+            <sp>
+               <speaker>Papist.</speaker>
+               <p>I shall be excommunicated if I countenance and favour such as you are, and be curs'd to the Pit of Hell by my most Holy Father.</p>
+            </sp>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <p>He must be a very unreasonable Tyrant that will require any such ridiculous and wicked resolution from you, as pernicious to your self as to us <hi>Protestants</hi> in this Nation; for, if you declare enmity against us, can you expect our protection where we are Masters? if you study to embroil the Nation, can you desire from us to be treated as Friends and Coun<g ref="char:EOLhyphen"/>trymen? if in stead of wishing us a good morning, or a good day, you are plotting to cut our
+<pb n="4" facs="tcp:199609:3"/> Throats, can you in reason and justice expect to live in safety amongst us? Whosoever there<g ref="char:EOLhyphen"/>fore hath given you this ill devilish temper, and enmity against your Countrymen and Neig<g ref="char:EOLhyphen"/>bours, never wish'd you well. They seek your <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uine and ours together, and to advantage themselves by the Tumults and Disorders of the Nation. Don't you perceive their wicked designs to destroy us all, under the pretence of Religion, and to set over us a foreign Power, a <hi>Frenchman</hi> or an <hi>Italian?</hi> and must not you be a Mad-man to encourage so great a Treason against your Natural Prince and Countrymen? Have you more inclination to be a Slave to a Foreigner, than to enjoy the freedom of a Subject? are you so blind to think that God's ho<g ref="char:EOLhyphen"/>nour is promoted by your enmity with us? Let our Heresie be never so great, That relates to our selves, not to you. You may enjoy the liberties of the <hi>English</hi> Subjects, and the Laws would never have concern'd themselves with you, no otherwise than with the rest of the Nati<g ref="char:EOLhyphen"/>on, were you but as peaceably affected and disposed as they are all, and as mindful of the Publick safety. Why will you by your hatred draw upon your selves those mischiefs, punish<g ref="char:EOLhyphen"/>ments, and restraints, which you may avoid by being as good to us as we have desired to be to you?</p>
+            </sp>
+            <sp>
+               <speaker>Papist.</speaker>
+               <p>You speak reason, were not the business of Religion concerned, and the glory of our God. But this makes us not only hazard our lives and fortunes, but declare an unrecon<g ref="char:EOLhyphen"/>cilable hatred to our dearest Relations whom we judge to be contrary to the same. We cannot be well affected to those who are not so to our Pope and the holy Mass, which two things we honour above all earthly concerns, and cannot suffer the least thought which might injure so tender a part of our Religion. This makes us look upon you▪ Hereticks, though our Country<g ref="char:EOLhyphen"/>men, as the greatest Enemies of truth and goodness; and the more a verse we are to you, the more we shall merit Heaven, and deserve the greater favour from Christ and his Vicar.</p>
+            </sp>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <p>What a strange Perswasion is this? what Infatuation hath possess'd your Souls? Religion do ye say, is your Religion the cause of your enmity against us your Brethren? is it your Religion that prompts you and perswades you to be cruel and inhumane to your own blood, to nourish hatred in your minds, and break out into Disorders and Barbarities? From such a Religion, good Lord deliver us▪ My Friend, pray tell me what is the Religion thou dost profess. Is it Christ's Religion; or the Pope's?</p>
+            </sp>
+            <sp>
+               <speaker>Papist.</speaker>
+               <p>They two are but one, for I am a <hi>Roman Catholick,</hi> taught to live according to the Rules of Christ and his blessed Apostles, as they have been delivered to and by the Church of <hi>Rome,</hi> the Mother of all other Churches of the World.</p>
+            </sp>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <p>Thou deliverest in few words a heap of the greatest absurdities imaginable: Christ's Religion and the Pope's are two distinct Professions, as opposite as Light and Darkness, as the <hi>Nadyr</hi> and the <hi>Z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nith</hi> of the Astrologers, or as the <hi>Antipodes</hi> are to our Climate; for Christ's Religion allows of no bowing to, or before Images of Stone, Timber, Gold, or Sil<g ref="char:EOLhyphen"/>ver: the Pope's Religion commands this Idol-worship, and furnishes us with an infinite num<g ref="char:EOLhyphen"/>ber of Beads, Images, Crosses, Relicks, and such-like Trinkets that we are to reverence and worship. Christ's Religion saith, that we have but one Mediator betwixt God and Man, the Man Christ Jesus. The Pope's Religion saith, that we have thousands and thousands of Saints and Angels, whose Merits and Intercession save us as well as the blood of the Lamb of God that was sacrificed for us upon the Cross. Christ's Religion teaches us that God hath made him alone the Head of the Church; and, though in Heaven, he governs all things ac<g ref="char:EOLhyphen"/>cording to his pleasure on Earth, he defends his People, saves them from ruine and destructi<g ref="char:EOLhyphen"/>on; he dissappoints the Plots of wicked Men. The Pope's Religion saith that the Pope is the Head of the Christian Church, by whose wisdom and direction we are to govern our acti<g ref="char:EOLhyphen"/>ons;
+<pb n="5" facs="tcp:199609:3"/> and that he hath power to abolish the Laws of God, and establish new ones at his plea<g ref="char:EOLhyphen"/>sure. Christ's Religion hath recommended to us two Sacraments, as Seals of the Covenant of Grace: The Pope's Religion saith there are seven. Christ's Religion teaches how we are to administer these two Sacraments, Baptism, and the Lord's Supper, as he hath shewed us in the Gospel. The Pope's Religion hath introduced Salt, Oyl, and so many conjuring Tricks, Motions, and various Postures, that agree not with the holy simplicity of the Gospel, nor with the essential parts of Christian Religion. Christ's Religion hath no Masses, Transub<g ref="char:EOLhyphen"/>stantiation, Pilgrimages, and such-like Fopperies, that render the <hi>Papists</hi> ridiculous to their <hi>Heathen</hi> and <hi>Mahometan</hi> Neighbours. Christ's Religion commands Honesty, Charity, Love, Mercy to Enemies, as well as Friends, enjoins an obedience to all the Moral Law; forbids Cruelty, Rebellion, Murder, Adultery, Fornication, and such-like wickedness contrary to the Light of Reason. The Pope's Religion teaches Inhumanities, encourages Faction and Rebellion, uncleanness, and Disorders; and for worldly ends allows of the greatest Villanies and Abuses. How can you think now that these two Religions are but one, that are so con<g ref="char:EOLhyphen"/>trary in their Principles? Pretences and Cloaks will avail nothing to palliate these fowl Acti<g ref="char:EOLhyphen"/>ons and Doctrines. All the World sees that what I have here said of them both is true. The Church of <hi>Rome</hi> never learn'd from Christ, nor his Apostles, to murder Kings, to assassinate Princes, to massacre millions of Souls, to dispence with Oaths, to forbid Matrimony, to al<g ref="char:EOLhyphen"/>low Concubines, to countenance Crimes, to encourage Sin. The Church of <hi>Rome</hi> never had from Christ, nor his holy Apostles, any thing of the Doctrines of <hi>Prergatory,</hi> Transubstan<g ref="char:EOLhyphen"/>tiation, the Merits of the Saints, the worshipping of Angels, and a great deal more that I pur<g ref="char:EOLhyphen"/>posely omit.</p>
+            </sp>
+            <sp>
+               <speaker>Papist.</speaker>
+               <p>From hence I warrant you you will conclude, that <hi>Papists</hi> are no Christians.</p>
+            </sp>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <p>They are Christians by name, and our comprehensive charity will allow them something more, to be Christians because of their Christian Initiation by Baptism, though corrupted and sophisticated with their idle Inventions. But they are no Christians in reality, if they observe strictly the Rules of their Popish Religion, and stick close to the Doctrines and Commands of the Pope. They forsake Christ and his Gospel when they allow themselves li<g ref="char:EOLhyphen"/>berty to sin by the Pope's Authority, and may be reckon'd amongst the Apostats of Christi<g ref="char:EOLhyphen"/>anity, because they begin well, and ingage themselves by Baptism to Christ's most holy Pro<g ref="char:EOLhyphen"/>fession; but immediately after they deviate from it, and run head long a quite contrary way to that which Christ hath appointed by his Commands and holy Examples. They are Christi<g ref="char:EOLhyphen"/>ans as the <hi>Arrians, Socintans,</hi> and other Hereticks that denyed the Divinity of our blessed Redeemer, and other Fundamentals of the Christian Faith. They are as the circumcised <hi>Jews</hi> that embrac'd the Idolatries of Paganism, and left the Religion which God had com<g ref="char:EOLhyphen"/>manded them.</p>
+            </sp>
+            <sp>
+               <speaker>Papist.</speaker>
+               <p>But how comes it to pass that some of your Ministers say, that it is possible for <hi>Pa<g ref="char:EOLhyphen"/>pists</hi> to be saved, if they be not, or such bad Christians as you have represented.</p>
+            </sp>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <p>I think there is none but a Flatterer that will say, that it is possible to be saved by the Religion of the Church of <hi>Rome;</hi> for not salvation, but damnation is declared and threatened in Gods Holy Word, to all such Persons as shall forsake Christ and his Merits, to rely upon Saints and Angels, as shall practice all those abominations that the Church of <hi>Rome</hi> recommends to us. It may be some out of a very great Charity may say, that it is possible to be in the Communion of the <hi>Romish</hi> Church, and yet obtain salvation from the infinite good<g ref="char:EOLhyphen"/>ness of a God whose mercy is above all his works. It belongs not to us to tell who are, and who are not saved. It is an impudency in Man to prescribe Rules and Laws to the great
+<pb n="6" facs="tcp:199609:4"/> Creator, and appoint whom he shall, and whom he shall not admit into his <hi>Paradise</hi> and glo<g ref="char:EOLhyphen"/>ry; or to curse, or damn his Fellow Creatures. God may wash and cleanse from sin the vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>est of Men, and the impurest of Heathens; and pardon them all their transgressions, and make them partakers of the blood of a crucisied Christ, by an infused Faith at the moment of their departure out of the World: God may find out means that we are not aware of, to sancti<g ref="char:EOLhyphen"/>fie and glorifie whom he pleaseth. Therefore we may say, that such may be saved notwith<g ref="char:EOLhyphen"/>standing their former unworthiness and baseness; but 'tis not by that Life they led on Earth. Thus we confess many good and religious <hi>Roman</hi> Catholicks may be saved, but not by that Religion which they profess; not by Masses, <hi>Purgatory,</hi> Images, the Merits of Saints; for we may confidently affirm, that by these things no Man can be saved. This Charity of ours should not encourage you in your Errours and Heresies, but rather oblige you to forsake them: For, is it a sufficient Reason for a Man to cast himself Over-board, to say he may by chance swim to Shore through the Billows of the Sea, when he may be safely carried to Land other<g ref="char:EOLhyphen"/>vise, by abiding in the Ship. The Thiefs fate upon the Cross makes us believe that Thieves and Robbers may at last find a gracious Saviour, and a good God to pardon them: but is this the way to obtain it, to rob our Neighbours, and plunder their Estates? A Man may escape through a Fire, and only his Clothes may be singed, but we must no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> therefore cast our selves in<g ref="char:EOLhyphen"/>to it without a necessity. But let me tell you Neighbour, if you, or any other <hi>Papist</hi> knows the truth, and wilfully shut your Eyes to all the discoveries of it; if you see your errour and mistakes, and think that by professing them you may be saved, you will find your selves cozened at last; for Gods grace seldom or never works upon an obstinate heart, hardened by wilful con<g ref="char:EOLhyphen"/>tinuance in a known Sin, or Errour; and there is no salvation to be expected for a resolved lover of Vice or Errour, who prefers them to his Duty, and Gods holy Commands.</p>
+            </sp>
+            <sp>
+               <speaker>Papist.</speaker>
+               <p>But how comes it to pass, that so many ingenuous and learned Men, whose Byes are as much open as yours, or your Ministers, not only continue in our Religion, but now a-days forsake your Religion to return again to the Religion of the Pope of <hi>Rome,</hi> and are zealous <hi>Papists,</hi> as you call them.</p>
+            </sp>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <p>Truly it may seem a very great wonder, that Men of any reason in them, not preju<g ref="char:EOLhyphen"/>dic'd by Education, should embrace so ridiculous a Religion, so full of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>opperies and Extravagan<g ref="char:EOLhyphen"/>ces as yours is of the Church of <hi>Rome,</hi> and should become so great Enemies of their humane Nature, and of their present, as well as of their future Interest. Ridiculous I call the Popi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Religion, because it teaches that a bald-pated Pope can forgive me all my sins, dispense with the Laws of God, change and alter the fundamental Laws of the humane Nature: It reache<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> us to pray to God and the Saints in unknown Tongues, wherein Men speak as often Nonsense as Reason: It teaches us to call upon them that cannot hear us, nor yield any assistance in time of need; that a piece of Bread with a few words is altered into an humane Body, like that of our Saviours upon the Cross: that though it tastes like Bread, and looks like Bread, or a Wafer, that it is a real Saviour, a Christ, an <hi>Emanuel,</hi> a God, and what not: That we must not believe all our Senses, but give them the Lye on this occasion: That this transubstantlated Body is circumscribed by place and time, and yet every where upon every Priests Fingers: That their God is to be eaten by Mice and Rats, carried away by Devils, and abused by wick<g ref="char:EOLhyphen"/>ed Men, and subject to all the astronts that the meanest of Creatures are subject to, or such ridiculous and extravagant fancies▪ that no Man of any reason can entertain any such wild opinions of his omnipotent and infinite Maker, or make profession of a Religion that advances any such horrid absurdities. It may seem very strange, that Men of any reasonable Education can yield to any such Doctrines as are Consequents to the Transubstantiation, the worship<g ref="char:EOLhyphen"/>ping
+<pb n="7" facs="tcp:199609:4"/> of Images, the praying to Saints and Angels, the Fancies of <hi>Purgatory,</hi> the Indulgen<g ref="char:EOLhyphen"/>ces of <hi>Rome,</hi> and such-like Opinions, which are so plainly repugnant with our Reason, that none but Mad-men and Fools, none but Blind-men and So<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, can submit to such inhu<g ref="char:EOLhyphen"/>mane and unreasonable Impie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies, which are as prejudicial to a glorious God, as they are to a reasonable Soul, and tend to give us such mean conceits of our great Creator, that these Do<g ref="char:EOLhyphen"/>ctrines must needs proceed from the Devil, the great Enemy of us both, seeing they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urn God into <hi>ridicul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Papist.</speaker>
+               <p>Hold, hold; we can shew the Word of God to prove all these things that you won<g ref="char:EOLhyphen"/>der at, and the Writings of the holy Fathers; unto them you say that our reason ought to submit and yield obedience, and why not in these Particulars?</p>
+            </sp>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <p>It is a great mistake, to say the Word of God, or the approved Fathers of the Primitive Church allows your errours. Where have you any thing of Masses, <hi>Purgatory,</hi> Tran<g ref="char:EOLhyphen"/>substantiation, bowing to Images, praying to Saints and Angels, and such-like things, in the Word of God, or the Writings of the Fathers? but rather we can shew you out of them Pas<g ref="char:EOLhyphen"/>sages contrary to these Errours. I desire not that you should shew me the names, but the things signified thereby. It is impossible, whatever your Doctors say, to shew the least sign of those Doctrines, that we deny to be Christian, or rational. I could mention several Passages that speak the contrary, which, because they are well known, I shall omit. But are not Men ridiculous and blind, in hopes of preferment, or for worldly advantages, to become <hi>Papists,</hi> when they may safely profess a better, and a more reasonable Religion, not guilty of such wild and mad Principles? They are Fools that will prefer the present advantages, benefits, and honours of Life, to the immortal possessions and glories of Eternity; they are worse than Fools that cannot see the Extravagancy of the <hi>Romish</hi> Faith: and what shall we say of those that see it, and ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> embrace it? Men that are brought up in the <hi>Protestant</hi> Religion, as it is mis-called, but should be rather named the old <hi>Catholick Apostolick</hi> Religion, which Christ and his holy Apostles have professed before us, and recommended to the Doctors and Bishops of the first Ages, and they have delivered to us, and which is recorded for us in the Word of God. Men that see the follies of an implicite Faith, and the dangers they run into by deny<g ref="char:EOLhyphen"/>ing Reason that liberty which God and Nature allow it; Men that are not b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>assed to the Church of <hi>Rome</hi> by Education, that such men should forsake the Church of <hi>England,</hi> and become <hi>Papists:</hi> after that they have had a full Prospect and Knowledge of Christ and his Gospel, is a strange Mystery that we cannot very well understand, nor unfold, unless we knew all the Intrigues of their Lives, and the Inclinations of their Hearts However such men, let their Reason and Learning be never so great, become ridiculous in the Eyes of their unprejudiced Neighbours. Their unconstancy is an unpardonable Crime, which a <hi>Turk</hi> or a <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ew,</hi> looks upon to be a great disgrace in this case, unless the Errour be palpable; but to be unconstant in the ways of God, to forsake his Word, and his Religion, to stifle the motions of Conscience, to abandon our Interest in Christ, in his Promises and ever<g ref="char:EOLhyphen"/>lasting Rewards, to make profession of so ridiculous and so in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umane a Religion as the <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>pish,</hi> so directly opposed to that of our Blessed Saviours, is an unconstancy and weakness that is aggravated with the most <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ainous Circumstances, in regard that Religion appears so foolish and childish in the Eyes of all rational men, and recommends to them such Fop<g ref="char:EOLhyphen"/>peries and Whimseys, that none that hath the least share in this light of Nature, can well entertain them without blinding this Natural Eye. If we should search into the Souls of those understanding persons, as Apostatize to the Pope, we should find them to be either <hi>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heists,</hi> Men of no Faith, nor Belief of God, Hell, or Heaven; of the Rewards of the,
+<pb n="8" facs="tcp:199609:5"/> one, or the Punishments of the other; such are inclinable to any Religion that may su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e with their chief aim to render their lives pleasant upon Earth, and may agree with their Delights and Interests; or they are sensual Worldlings, who are perswaded of the Being of God, and of Rewards and Punishments of another life, but are willing to cheat themselves into a perswasion and possibility of obtaining Heaven without such a strict adherence to <hi>Christ</hi> and his Religion. Their strong inclinations to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nst biasses their Judgments before their minds, and leads them headlong into their Eternal Damnation; many are turned to <hi>Popery</hi> more by Lust than by Reason, because it is a Religion that allowes them that liberty which the strict Rules of the Gospel forbid: And after all their pleasures and follies, it astures them of obtaining a Heaven for a little Mony. Neighbour, I would not have you, nor any one else, to ground your Faith upon so unsound a Foundation as mens lustful Ap<g ref="char:EOLhyphen"/>pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, which occasions their change, but settle it upon God's holy Word which will never fail you. There you shall see that <hi>Popery</hi> is the Devil's Religion, which by Blood-shed and Cruelties strives to settle his Empire upon the Souls and Consciences of men, and to lead them into everlasting Perdition. There you shall understand that <hi>Popery</hi> is a Politick Contri<g ref="char:EOLhyphen"/>vance to promote the Popes Empire in the World, to enslave all Nations to his proud See, and to cause him to hold by the Power of the Keys what the <hi>Roman</hi> Empire held by the power of the Sword. But here in <hi>England</hi> we are not so easily cozen'd by him and his Wicked Agents, neither will we submit to his horrid Abominations; though our sincerity and constancy cost us our lives and fortunes, we shall be glad to sacrifice them all in the main<g ref="char:EOLhyphen"/>tenance of God's Truth and Gospel.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>I thank you for your Instructions, I shall consider what you have said to me.</p>
+            </sp>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <p>I pray God you may, and that he would open your Eyes and the Under<g ref="char:EOLhyphen"/>standings of all Nations, that they may not suffer themselves to be cheated of their Honours, Glories, Monies, Estates, and Souls, under the pretence of Religion, by the Pope and his Emissaries. That they may at last break the Fetters of the <hi>Roman</hi> Bondage, and free themselves from the Tyranny of that Imperious City.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:199609:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
